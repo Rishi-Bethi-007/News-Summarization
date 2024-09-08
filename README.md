@@ -1,1 +1,1 @@
-# NewsSummerization
+# News Summerization
